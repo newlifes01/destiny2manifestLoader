@@ -10,7 +10,7 @@ using System.Reflection;
 
 namespace ManifestLoader
 {
-    class manifester
+    class ManifestBuilder
     {
         public static void Main(string[] args)
         {
